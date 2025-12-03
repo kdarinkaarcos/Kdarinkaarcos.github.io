@@ -1,0 +1,96 @@
+*{
+    font-family: "Rajdhani", serif;
+}
+h2{
+    font-weight: bold;
+    color: white;
+}
+header{
+    background-color: #001233;
+}
+header span{
+color: #979DAC;
+}
+header i{
+    color: #979DAC;
+}
+.nav-item a:hover{
+    color: #0353A4;
+}
+#app{
+    color: #0466C8;
+}
+.caja-habilidades i{
+    color: #0466C8;
+    
+}
+#habilidades{
+color: #7D8597;
+}
+body{
+    background-color: black;
+}
+#Color{
+    color: #979DAC;
+}
+h1{
+    color: white;
+}
+.titulo p{
+    color: #7D8597;
+}
+h3{
+    color: #979DAC;
+    font-weight: bold;
+}
+.card{
+    background-color: black;
+}
+.cajita .card{
+    background-color: black;
+    border-color: #011b4b;
+}
+
+.btn-pr a{
+  text-decoration: none;
+  color: #979DAC;
+
+}
+.card .card-title{
+    color: #0353A4;
+}
+.card p{
+    color: #979DAC;
+}
+.proyectos .text-body-secondary {
+    color: #979DAC;
+  }
+ .card h6{
+    color: #979DAC;
+ }
+ .cajita small{
+    color: #979DAC;
+}
+h6{
+    color: #7D8597;
+}
+#contacto{
+    color: #979DAC;
+}
+.nav-item i{
+    color: #023E7D;
+}
+footer{
+    background-color: #5C677D;
+}
+footer a{
+    color: #023E7D;
+}
+footer p{
+    color: #838892;
+}
+
+  
+
+
+
