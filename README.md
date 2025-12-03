@@ -29,7 +29,7 @@ ____
 ### *Espero pronto saber de ti*
 ___
 *Correo*
-[daricarrillo.132@gmail.com](mailto:daricarrillo.132@gmail.com)
+[daricarrillo.132@gmail.com](mailto:kdarinka.arcos@gmail.com)
 
 ### Creado en el bootcamp de TecnolochicasPro💟
 [Tecnolochicas](https://tecnolochicas.mx)
